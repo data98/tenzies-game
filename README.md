@@ -1,4 +1,4 @@
-# Redberry bootcamp assignment form
+# Tenzies Game
 
 This project is a simple tenzies game made with react, uuid and react-confetti.
 
